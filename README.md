@@ -23,4 +23,4 @@ Step 10. Trained the chatbot
 Step 11. Created CSS style sheet to add design and work on UI/UX
 
 Step 12. Published the chatbot for users to access it with this provided link
-![]()
+![](https://github.com/Yusicool/Yusra_projects/blob/main/images/chatbot%20img.png)
