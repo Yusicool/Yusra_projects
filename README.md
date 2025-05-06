@@ -59,3 +59,13 @@ Step 2 - Used coding blocks to develop the game
 
 Step 3 - Racing game shows the racing of two cars
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/images/acing%20game%20start.png?raw=true)
+![](https://github.com/Yusicool/Yusra_projects/blob/main/images/raing%20game.png?raw=true)
+
+
+# Space Game
+
+Step 1 - Created a space game where user has to kill objects in order to save planet
+
+Step 2 - This game is developed using coding blocks on scratch
+
+Step 3 - The game overs if you touch the object
