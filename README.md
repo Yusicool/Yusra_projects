@@ -39,7 +39,6 @@ Step 4 - Used While loop and functions to create different shapes
 
 Step 5 - Used python codes to change color of spiral and create beuatiful spirals
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/images/python%20geomentry%20design.png?raw=true)
-![](https://github.com/Yusicool/Yusra_projects/blob/main/images/Screenshot%202025-02-08%20170712.png?raw=true)
 
 
 # Angry Bird Game With Coding Blocks
@@ -49,3 +48,13 @@ Step 1 - Developed an angry bird game with coding blocks
 Steps 2 - The game uses fully functional code to take angry bird towards pig
 
 Step 3 - Target is to kill the pig and you win the game
+![](https://github.com/Yusicool/Yusra_projects/blob/main/images/Screenshot%202025-02-08%20170712.png?raw=true)
+
+
+# Racing Game
+
+Step 1 - Created a Racing game using Scratch
+
+Step 2 - Used coding blocks to develop the game
+
+Step 3 - Racing game shows the racing of two cars
