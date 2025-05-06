@@ -39,7 +39,7 @@ Step 4 - Used While loop and functions to create different shapes
 
 Step 5 - Used python codes to change color of spiral and create beuatiful spirals
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/images/python%20geomentry%20design.png?raw=true)
-
+![](https://github.com/Yusicool/Yusra_projects/blob/main/images/Screenshot%202025-02-08%20170712.png?raw=true)
 
 
 # Angry Bird Game With Coding Blocks
