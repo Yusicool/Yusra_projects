@@ -38,6 +38,7 @@ Step 3 - Used For loop and range to repeat code 3000 times
 Step 4 - Used While loop and functions to create different shapes
 
 Step 5 - Used python codes to change color of spiral and create beuatiful spirals
+
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/images/python%20geomentry%20design.png?raw=true)
 
 
@@ -48,6 +49,7 @@ Step 1 - Developed an angry bird game with coding blocks
 Steps 2 - The game uses fully functional code to take angry bird towards pig
 
 Step 3 - Target is to kill the pig and you win the game
+
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/images/Screenshot%202025-02-08%20170712.png?raw=true)
 
 
@@ -58,6 +60,7 @@ Step 1 - Created a Racing game using Scratch
 Step 2 - Used coding blocks to develop the game
 
 Step 3 - Racing game shows the racing of two cars
+
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/images/acing%20game%20start.png?raw=true)
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/images/raing%20game.png?raw=true)
 
@@ -69,6 +72,7 @@ Step 1 - Created a space game where user has to kill objects in order to save pl
 Step 2 - This game is developed using coding blocks on scratch
 
 Step 3 - The game overs if you touch the object
+
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/images/spacegame.png?raw=true)
 ![](https://chat.google.com/u/0/api/get_attachment_url?url_type=FIFE_URL&content_type=image%2Fpng&attachment_token=AOo0EEWCSyqxlxMaSaw5%2Fy0ft6Oxi7%2FNgBvPpdxthF6tqR7Jf87h7Fp9BL0ab1qoEqpUtAq0vEBTPACFs0ON3TpUt3B%2BQqHtLmXKXmqKhxSofD2s3WEQiz1VZwhHsgi7Rgh%2FkqzmaOOzEcDXsdFdqFbGLH%2BJEsCNfC2ZtDKJxbb%2FMxmCPg7wiN%2FrZwOdbIWbqawKMNii5RhgZByXRKQIDaJ8AzALfXWkfLiGURd%2BD8TGn3rqrOqdO5JNWekTf%2B84IRbcvwxU0ZoAywFWK8DCzrfsQslA%2FlCftUm5J4P4IwObIzLZtv%2BjVYoEH177yTAhWzlmxNJOMikrGBZDV3CYJX5xGTuykeNM1ngJtoe7QSMxxBNg4S3mz8luToCpi0loUbS00y%2F4RVi90DaqBGCMeE6LPNs20T69%2BfjO08ngYPpfcXBUvYLjRrhQvNU%2ByCIuslG%2BFfbcliowy4HKeGaxpun3uSCyUo1RlqWIU35LXnWVspmFEMK6WNbj9YcMHXronfPgf4YWU8xNP7ZATHkcB1NmGu85mSBIoJ0U4IXPwSQxfafhr%2FgZMWkmFOirHqB2oFNaiCRDQRg4BJkCHIKGdrPoEYZLcPgIz99dXh6rUogW&allow_caching=true&sz=w1920-h877)
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/images/spacegame%203.png?raw=true)
@@ -81,8 +85,10 @@ Step 1 :  Built a game with coding blocks
 Step 2: Added different modules and levels 
 
 Step3: Deployed the game
+
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/images/ice%20age%20game.png?raw=true)
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/images/ice%20age%20game%202.png?raw=true)
+
 # Music Lab Game
 
 Step 1:  Created music lab Project 
@@ -90,4 +96,5 @@ Step 1:  Created music lab Project
 Step2:  Using coding blocks created different mmusic nodes1
 
 Step 3:  Deployed the project
+
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/images/music%20game.png?raw=true)
