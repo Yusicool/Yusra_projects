@@ -82,4 +82,12 @@ Step 2: Added different modules and levels
 
 Step3: Deployed the game
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/images/ice%20age%20game.png?raw=true)
+![](https://github.com/Yusicool/Yusra_projects/blob/main/images/ice%20age%20game%202.png?raw=true)
+# Music Lab Game
+
+Step 1:  Created music lab Project 
+
+Step2:  Using coding blocks created different mmusic nodes1
+
+Step 3:  Deployed the project
 ![]()
