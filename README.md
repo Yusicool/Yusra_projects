@@ -1,3 +1,23 @@
+# Expense Tracker Ap - AI based web application
+
+Step 1: I created the AI-powered expense tracker application using python and AI tools.
+
+Step 2: Using the numpy, pandas, and scikit learn libraries.
+
+Step 3: Trained the AI model.
+
+Step 4: The aplication dashboard displays the daily, weekly and monthly expense.
+
+Step 5:User can select the category of the expeniture, currencies and others.
+
+Step 6: UI/UX is designed to be user-griendly and easily accessible.
+
+Step 7: User can download the excle/csv shet for the statement of total weekly, monthly or yearly expense.
+
+Step 8: The application is quite useful for fianacial managment and expense tracking.
+
+Step 9: Using the seaborn and matplotlib libraries we have a beautiful dashboard to visualize the exoense in different forms like, bar charts, pie charts, maps and other relative visuals for story telling and one-tap view & summary.
+
 # chatbot
 
 Step 1.Executed with python programming
@@ -98,3 +118,6 @@ Step2:  Using coding blocks created different mmusic nodes1
 Step 3:  Deployed the project
 
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/images/music%20game.png?raw=true)
+
+
+
