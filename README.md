@@ -22,6 +22,9 @@ Step 9: Using the seaborn and matplotlib libraries we have a beautiful dashboard
 
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/Screenshot%202026-01-23%20210142.png)
 
+![](https://github.com/Yusicool/Yusra_projects/blob/main/Screenshot%202026-01-23%20210200.png)
+
+![]()
 # chatbot
 
 Step 1.Executed with python programming
