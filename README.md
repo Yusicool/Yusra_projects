@@ -18,6 +18,9 @@ Step 8: The application is quite useful for fianacial managment and expense trac
 
 Step 9: Using the seaborn and matplotlib libraries we have a beautiful dashboard to visualize the exoense in different forms like, bar charts, pie charts, maps and other relative visuals for story telling and one-tap view & summary.
 
+![](https://github.com/Yusicool/Yusra_projects/blob/main/Screenshot%202026-01-23%20210127.png)
+
+
 # chatbot
 
 Step 1.Executed with python programming
