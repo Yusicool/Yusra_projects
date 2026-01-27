@@ -1,5 +1,11 @@
 # Gaming Zone
 
+Step 1: Created a fully functional AI - powered website using site123 an Ai tool.
+
+Step 2: Coding is based on python, CSS and HTML.
+
+Step 3: You can see the screenshots below :
+
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/Screenshot%202026-01-27%20212929.png?raw=true)
 
 [](https://github.com/Yusicool/Yusra_projects/blob/main/Screenshot%202026-01-27%20212929.png?raw=true)
