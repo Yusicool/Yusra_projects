@@ -8,6 +8,8 @@
 
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/Screenshot%202026-01-27%20213031.png?raw=true)
 
+![](https://github.com/Yusicool/Yusra_projects/blob/main/Screenshot%202026-01-27%20213052.png?raw=true)
+
 ![]()
 
 # Expense Tracker Ap - AI based web application
