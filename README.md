@@ -1,8 +1,8 @@
 # Gaming Zone
 
-![](https://github.com/Yusicool/Yusra_projects/blob/main/Screenshot%202026-01-27%20212858.png?raw=true)
 
-![](https://github.com/Yusicool/Yusra_projects/blob/main/Screenshot%202026-01-27%20212929.png?raw=true)
+
+[](https://github.com/Yusicool/Yusra_projects/blob/main/Screenshot%202026-01-27%20212929.png?raw=true)
 
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/Screenshot%202026-01-27%20213008.png?raw=true)
 
@@ -16,7 +16,7 @@
 
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/Screenshot%202026-01-27%20213256.png?raw=true)
 
-!]]()
+![](https://github.com/Yusicool/Yusra_projects/blob/main/Screenshot%202026-01-27%20213336.png?raw=true)
 
 # Expense Tracker Ap - AI based web application
 
