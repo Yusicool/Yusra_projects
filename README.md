@@ -8,8 +8,7 @@ Step 3: Accuracy of model is 95%.
 
 Step 4: Iamge detection is 100% as shown below in the images.
 
-
-
+Step 5: Screenshots of code and modle training process have been shared below
 
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/Screenshot%202026-02-03%20194150.png?raw=true)
 
