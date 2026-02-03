@@ -2,6 +2,10 @@
 
 Step 1: I created a fully funtional AI  image classification model using Tensorflow, Keras and Yolo.
 
+Step 2: I used Google Teachable machine to train the model.
+
+
+
 
 ![](https://github.com/Yusicool/Yusra_projects/blob/main/Screenshot%202026-02-03%20194150.png?raw=true)
 
