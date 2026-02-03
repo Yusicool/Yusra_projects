@@ -4,7 +4,10 @@ Step 1: I created a fully funtional AI  image classification model using Tensorf
 
 Step 2: I used Google Teachable machine to train the model.
 
-Step 3: Accuracy of model is 95%
+Step 3: Accuracy of model is 95%.
+
+Step 4: Iamge detection is 100% as shown below in the images.
+
 
 
 
